@@ -1,0 +1,1 @@
+fun main() = println(List(3) { List(3) { List(3) { 0 } } })

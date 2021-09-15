@@ -1,0 +1,1 @@
+fun main() = println(IntArray(3) { readLine()!!.toInt() }.sum())

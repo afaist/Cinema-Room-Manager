@@ -1,0 +1,1 @@
+fun main() = print((readLine() + "\n").repeat(10))
